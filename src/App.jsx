@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>Media Clone</div>
+    <div>Media Clone for twitter</div>
   )
 }
 
